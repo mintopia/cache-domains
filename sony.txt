@@ -12,4 +12,3 @@ theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 gst.prod.dl.playstation.net
-*.gst.sonygst.loris-e.llnwd.net
